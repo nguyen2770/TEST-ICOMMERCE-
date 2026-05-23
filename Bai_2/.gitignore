@@ -1,0 +1,44 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio cache
+*.cache
+*.log
+
+# NuGet
+packages/
+*.nupkg
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# MacOS
+.DS_Store
+
+# Test results
+TestResults/
+
+# Publish output
+publish/
+
+# Local configuration
+*.local
+
+# ReSharper
+_ReSharper*/
+*.DotSettings.user
